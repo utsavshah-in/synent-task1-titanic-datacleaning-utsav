@@ -30,3 +30,6 @@ A fully cleaned Titanic dataset with no missing/duplicate values, correct data t
 - `titanic.csv` — raw dataset
 - `titanic_cleaned.csv` — cleaned dataset
 - `missing_values_heatmap.png` — visualization of missing data
+
+## Demo Video
+[Watch the demo](https://drive.google.com/file/d/1IxJWIsMP-e0xyPLWGZ_FqQN4eg1S_pl8/view?usp=drive_link)
